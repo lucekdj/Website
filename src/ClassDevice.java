@@ -81,6 +81,6 @@ public class ClassDevice {
         screenSize = screenSizeInput;
         System.out.println(manufacturerInput + nameInput + versionInput + modelInput + screenSizeInput);
     }
-
 }
+
 
