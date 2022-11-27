@@ -6,6 +6,7 @@ public class MainPhone {
 //
     iPhone ip2 = new iPhone(999);
         //System.out.println(ip2.version);
+<<<<<<< HEAD
         // System.out.println(ip2.price);
 
     iPhone ip3 = new iPhone(6, 849, true);
@@ -16,6 +17,15 @@ public class MainPhone {
         System.out.println(ip4.price);
         System.out.println(ip2.price);
         System.out.println(ip3.price);
+=======
+        System.out.println(ip2.price);
+
+    iPhone ip3 = new iPhone(6, 849, true);
+        System.out.println(ip3.price);
+
+    iPhone ip4 = new iPhone(850);
+        System.out.println(ip4.price);
+>>>>>>> origin/main
 
 //    Samsung sam1 = new Samsung(549, false);
 //        System.out.println(Phone.counter);
